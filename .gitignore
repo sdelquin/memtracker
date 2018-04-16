@@ -1,0 +1,7 @@
+*.pyc
+*.db
+index.html
+*.log
+config.py
+ganalytics.html
+.DS_Store
