@@ -1,5 +1,5 @@
 from fabric.api import local, cd, run, env, get
-from config import config
+import config
 
 env.hosts = ["production"]
 
